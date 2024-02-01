@@ -1,70 +1,24 @@
-# Getting Started with Create React App
+#This is my first pratice with reactjs :))
+ 
+**Features**
+ 1. Add job
+ 2. Check finish job
+ 3. Fillter job(all,finish,unfinish)
+ 4. Delete(select job,finish,unfinish)
+ 5. Edit
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## main ui
+![image](https://github.com/phamtronghieu2002/TODO/assets/109363404/f2e0edd2-6c23-4a4d-8d26-82a1a73a0c71)
+## add to do
+![image](https://github.com/phamtronghieu2002/TODO/assets/109363404/c6d5a6e2-905d-4390-9b8d-65a5dc8f6869)
+## check finish
+![image](https://github.com/phamtronghieu2002/TODO/assets/109363404/0b54553d-056f-45cf-a8bf-b38debcbf1b1)
+## fillter
+![image](https://github.com/phamtronghieu2002/TODO/assets/109363404/5be09aa7-9ab2-4752-a1b8-7b95cf31163d)
+![image](https://github.com/phamtronghieu2002/TODO/assets/109363404/cc65bd2b-a59d-4a2c-a31b-59d05218666a)
+## delete
+![image](https://github.com/phamtronghieu2002/TODO/assets/109363404/09790e48-04a6-4454-84f2-e9af678d7e8e)
+![image](https://github.com/phamtronghieu2002/TODO/assets/109363404/ce86db52-3a20-4321-b139-25843a13c107)
+## edit
+![image](https://github.com/phamtronghieu2002/TODO/assets/109363404/0b4bab4e-c819-4b48-977c-455ac1bad612)
+![image](https://github.com/phamtronghieu2002/TODO/assets/109363404/2ce84e27-fd81-4180-85ca-66428be66e22)
